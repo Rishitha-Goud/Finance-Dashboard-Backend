@@ -396,8 +396,9 @@ This implementation addresses the assignment criteria as follows:
 
 Suggested submission format:
 
-- Repository link: GitHub repository URL
-- Documentation link: direct link to this README file
+- Repository link:[Finance Dashboard Backend](https://github.com/Rishitha-Goud/Finance-Dashboard-Backend)
+- Documentation link:  [README Documentation](https://github.com/Rishitha-Goud/Finance-Dashboard-Backend/blob/main/dashboard/README.md)
+- Postman API Documentation: [Postman Docs]([PASTE_YOUR_POSTMAN_LINK_HERE](https://.postman.co/workspace/Finance-Dashboard~8a8a824f-2ac6-4a35-8e39-419388f8e9de/collection/42623948-6aaf0929-6d45-4d5a-b391-d46a9f1a840b?action=share&creator=42623948))
 
 ## Author Note
 
