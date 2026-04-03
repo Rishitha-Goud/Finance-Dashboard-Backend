@@ -398,7 +398,7 @@ Suggested submission format:
 
 - Repository link:[Finance Dashboard Backend](https://github.com/Rishitha-Goud/Finance-Dashboard-Backend)
 - Documentation link:  [README Documentation](https://github.com/Rishitha-Goud/Finance-Dashboard-Backend/blob/main/dashboard/README.md)
-- Postman API Documentation: [Postman Docs](https://.postman.co/workspace/Finance-Dashboard~8a8a824f-2ac6-4a35-8e39-419388f8e9de/collection/42623948-6aaf0929-6d45-4d5a-b391-d46a9f1a840b?action=share&creator=42623948)
+- Postman API Documentation: [Postman Docs](https://documenter.getpostman.com/view/42623948/2sBXiompy9)
 
 ## Author Note
 
